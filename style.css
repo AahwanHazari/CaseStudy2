@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+#img1{
+    background-color: burlywood;
+}
+
+#img2{
+    background-color: rgb(100, 230, 223);
+}
+
+#img3{
+    background-color: rgb(255, 80, 80);
+}
+
+#img4{
+    background-color: lightpink;
+}
+
+.copy_right_footer{
+    background-color: cornflowerblue;
+    color: crimson;
+}
+
+#result{
+    color: cyan;
+    background-color: chocolate;
+}
+#head{
+    background-color:cornsilk;
+    color: darkmagenta;
+}
