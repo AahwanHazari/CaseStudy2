@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-color: black;
+    background-color: chocolate;
 }
 #img1{
     background-color: burlywood;
@@ -21,6 +21,7 @@ body{
 .copy_right_footer{
     background-color: cornflowerblue;
     color: crimson;
+    text-style: bold;
 }
 
 #result{
